@@ -1,2 +1,2 @@
-# PYTHON-PROJECT
-COMPUTER PROJECT
+# ComputerProject
+Computer Project
